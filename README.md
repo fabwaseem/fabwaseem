@@ -36,7 +36,7 @@
   - 🌱 Learning **System Design & Cloud Architecture**
   - 👯 Looking to collaborate on **Open Source Projects**
   - 💬 Ask me about **Web Development, DevOps, & Cloud**
-  - 📫 Reach me at **fabwaseem@gmail.com**
+  - 📫 Reach me at **waseemaofficial@gmail.com**
   - ⚡ Fun fact: I debug better with coffee ☕
 </div>
 
