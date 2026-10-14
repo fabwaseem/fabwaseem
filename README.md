@@ -1,139 +1,71 @@
 <div align="center">
-  
-  <!-- Custom Banner Image -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Waseem%20Anjum&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=white" width="100%" alt="Welcome Banner"/>
-  
-  <!-- Typing SVG -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=440&lines=Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
-  </a>
 
-  <!-- Social Badges -->
-  <div>
-    <a href="https://www.linkedin.com/in/fabwaseem" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>&nbsp;
-    <a href="https://twitter.com/fabwaseeem" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-    </a>&nbsp;
-    <a href="mailto:fabwaseem@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>&nbsp;
-    <a href="https://github.com/fabwaseem" target="_blank">
-      <img src="https://komarev.com/ghpvc/?username=fabwaseem&style=for-the-badge&color=0e75b6" alt="Profile Views" />
-    </a>
-  </div>
+# Waseem Anjum
+
+**Full Stack Developer** · Lahore, Pakistan · Remote
+
+I build production web products with Next.js, React, Node.js, and TypeScript.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=flat)](https://www.fabwaseem.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat)](https://www.linkedin.com/in/fabwaseem) [![X](https://img.shields.io/badge/X-4B5563?style=flat&logo=x&logoColor=white)](https://x.com/fabwaseeem) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:waseemaofficial@gmail.com)
+
 </div>
 
-<!-- About Me Section -->
-<div style="clear: both; margin-top: 50px;">
-  <h2>🚀 About Me</h2>
-  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="margin-left: 20px; margin-bottom: 20px;"/>
-  
-  <p style="margin-bottom: 10px;">Passionate Full Stack Developer with expertise in modern web technologies and cloud solutions. I transform innovative ideas into scalable applications.</p>
+## About
 
-  - 🔭 Currently working on **Cloud-Native Applications**
-  - 🌱 Learning **System Design & Cloud Architecture**
-  - 👯 Looking to collaborate on **Open Source Projects**
-  - 💬 Ask me about **Web Development, DevOps, & Cloud**
-  - 📫 Reach me at **waseemaofficial@gmail.com**
-  - ⚡ Fun fact: I debug better with coffee ☕
-</div>
+I work across the stack: Next.js and React on the interface, Node.js and NestJS for APIs, PostgreSQL and MongoDB for data, and TypeScript throughout. That work includes Web3 integrations, system design, and performance, with the same care once a product is in production.
 
-<br clear="both">
+More at [fabwaseem.com](https://www.fabwaseem.com).
 
-<!-- Tech Stack Section -->
-<h2>🛠️ Technology Arsenal</h2>
+## Tech stack
 
-<details open>
-<summary><b>👨‍💻 Programming Languages</b></summary>
-<br>
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,go,rust" />
-  </a>
+  <img alt="TypeScript, React, Next.js, Node.js, NestJS, PostgreSQL, MongoDB, and Docker" src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,nestjs,postgres,mongodb,docker&perline=8" />
 </p>
-</details>
 
-<details open>
-<summary><b>🌐 Frontend Development</b></summary>
-<br>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,next,vue,nuxt,tailwind,sass" />
-  </a>
-</p>
-</details>
+TypeScript · React · Next.js · Node.js · NestJS · PostgreSQL · MongoDB · Docker
 
-<details open>
-<summary><b>⚙️ Backend Development</b></summary>
-<br>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,prisma" />
-  </a>
-</p>
-</details>
+## Featured projects
 
-<details open>
-<summary><b>☁️ Cloud & DevOps</b></summary>
-<br>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform" />
-  </a>
-</p>
-</details>
+| Project | Summary | Links |
+| --- | --- | --- |
+| [Snagbox](https://github.com/fabwaseem/snagbox) | Self-hostable NestJS API that turns a public URL into a file. Docker image `ghcr.io/fabwaseem/snagbox`. | [Live](https://snagbox.fabwaseem.com) · [GHCR](https://github.com/fabwaseem/snagbox/pkgs/container/snagbox) |
+| [Lumina](https://github.com/fabwaseem/lumina) | Cross-platform Electron gallery for browsing CivitAI images and sending their prompts into a local ComfyUI server. | [Releases](https://github.com/fabwaseem/lumina/releases/latest) |
+| [Civitai Gallery Explorer](https://github.com/fabwaseem/ComfyUI-Civitai-Gallery-Explorer) | ComfyUI node that browses the Civitai gallery and sends the selected prompt, preview, and LoRA metadata into the graph. | [Registry](https://registry.comfy.org/nodes/civitai-gallery-explorer) |
+| [NovaCraft UI](https://github.com/fabwaseem/novacraft-ui) | Dark-first React component library and documentation site, themed with CSS variables. | [Live](https://novacraft-ui.vercel.app) |
+| [Foliora](https://github.com/fabwaseem/nextjs-portfolio-website) | Full-stack portfolio and blog with an admin dashboard, 218 themes, and PostgreSQL via Prisma. | [Live](https://foliora.fabwaseem.com) · [Demo](https://fabwaseem.vercel.app) |
+| [Civitai Browser](https://github.com/fabwaseem/civitai-browser) | Windows desktop app to browse Civitai images that include generation metadata and ComfyUI workflows, with native drag-out into ComfyUI. | [Releases](https://github.com/fabwaseem/civitai-browser/releases/latest) |
 
-<details open>
-<summary><b>🛢️ Database</b></summary>
-<br>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" />
-  </a>
-</p>
-</details>
+## Live products
 
-<!-- GitHub Stats -->
-<h2>📊 GitHub Stats</h2>
+Also on [fabwaseem.com/projects](https://www.fabwaseem.com/projects).
+
+| Product | What it is | Live |
+| --- | --- | --- |
+| [Cladly](https://cladly.bio) | Next.js app for managing content and user workflows. | [cladly.bio](https://cladly.bio) |
+| [Vidyoza](https://vidyoza.com) | Social media video downloader for saving video and audio from major platforms, in multiple formats and qualities. | [vidyoza.com](https://vidyoza.com) |
+| [Sonora](https://sonora-olive.vercel.app) | Private, fully offline speech studio for Windows, with text-to-speech, speech-to-text, and global dictation. | [Site](https://sonora-olive.vercel.app) |
+| [Snipshot](https://snipshot-alpha.vercel.app) | Windows screenshot tool for capturing, annotating, and exporting images. | [Site](https://snipshot-alpha.vercel.app) |
+| [Open Releases](https://open-releases.vercel.app) | Directory for finding open-source apps and downloading the installer that matches your device. | [Site](https://open-releases.vercel.app) |
+
+## GitHub
 
 <div align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=fabwaseem&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="GitHub Stats" />
+
+<a href="https://github.com/fabwaseem">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=fabwaseem&theme=dark&hide_border=true" />
+    <img alt="GitHub contribution streak for fabwaseem" src="https://streak-stats.demolab.com?user=fabwaseem&theme=default&hide_border=false" />
+  </picture>
+</a>
+
 </div>
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fabwaseem&theme=tokyonight" width="100%" />
-</div>
+## Contact
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fabwaseem&theme=tokyonight" width="31%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fabwaseem&theme=tokyonight" width="31%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fabwaseem&theme=tokyonight&utcOffset=8" width="31%" />
-</div>
 
-<!-- Activity Graph -->
-<h2>📈 Contribution Graph</h2>
+Available for remote work.
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fabwaseem&theme=react-dark&hide_border=true&area=true" width="100%">
-</div>
+[Portfolio](https://www.fabwaseem.com) · [Email](mailto:waseemaofficial@gmail.com) · [LinkedIn](https://www.linkedin.com/in/fabwaseem) · [X](https://x.com/fabwaseeem) · [YouTube](https://www.youtube.com/@opensourcecoding) · [Behance](https://www.behance.net/fabwaseem) · [Stack Overflow](https://stackoverflow.com/users/16352771/waseem-anjum) · [Instagram](https://www.instagram.com/fabwaseem)
 
-<!-- GitHub Streak Stats -->
-<h2>🔥 Streak Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fabwaseem&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</div>
-
-<!-- GitHub Trophies -->
-<h2>🏆 GitHub Trophies</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fabwaseem&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
