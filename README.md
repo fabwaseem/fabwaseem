@@ -29,8 +29,8 @@ TypeScript · React · Next.js · Node.js · NestJS · Python · PostgreSQL · M
 | Project | Summary | Links |
 | --- | --- | --- |
 | [Benchline](https://github.com/fabwaseem/benchline) | Free developer tools (JSON, PDF, images, JWT, DNS, llms.txt) that also run as a stateless MCP server for AI agents. MIT. | [Live](https://benchline.fabwaseem.com) · [MCP](https://benchline.fabwaseem.com/mcp) · [Glama](https://glama.ai/mcp/servers/fabwaseem/benchline) |
-| [agent-rules](https://github.com/fabwaseem/agent-rules) | Cursor / Claude / AGENTS.md rule packs for shipping Next.js and NestJS work faster. | [Repo](https://github.com/fabwaseem/agent-rules) |
-| [Snagbox](https://github.com/fabwaseem/snagbox) | Self-hostable NestJS API that turns a public URL into a file. Docker image `ghcr.io/fabwaseem/snagbox`. | [Live](https://snagbox.fabwaseem.com) · [GHCR](https://github.com/fabwaseem/snagbox/pkgs/container/snagbox) |
+| [agent-rules](https://github.com/fabwaseem/agent-rules) | Cursor / Claude / AGENTS.md rule packs for shipping Next.js and NestJS work faster. Listed on [awesome-ai-plugins](https://github.com/hashgraph-online/awesome-ai-plugins) and the [HOL Registry](https://hol.org/registry/plugins). | [Repo](https://github.com/fabwaseem/agent-rules) |
+| [Snagbox](https://github.com/fabwaseem/snagbox) | Self-hostable NestJS API that turns a public URL into a file. On [awesome-nestjs](https://github.com/nestjs/awesome-nestjs). Docker image `ghcr.io/fabwaseem/snagbox`. | [Live](https://snagbox.fabwaseem.com) · [GHCR](https://github.com/fabwaseem/snagbox/pkgs/container/snagbox) |
 | [Forgekit](https://github.com/fabwaseem/forgekit) | Open-source Next.js AI starter with RAG and pgvector. | [Repo](https://github.com/fabwaseem/forgekit) |
 | [Lumina](https://github.com/fabwaseem/lumina) | Cross-platform Electron gallery for browsing CivitAI images and sending prompts into local ComfyUI. | [Releases](https://github.com/fabwaseem/lumina/releases/latest) |
 | [Civitai Gallery Explorer](https://github.com/fabwaseem/ComfyUI-Civitai-Gallery-Explorer) | ComfyUI node that browses the Civitai gallery and drops prompt, preview, and LoRA metadata into the graph. | [Registry](https://registry.comfy.org/nodes/civitai-gallery-explorer) |
@@ -41,11 +41,11 @@ TypeScript · React · Next.js · Node.js · NestJS · Python · PostgreSQL · M
 
 Long-form posts with real benchmarks and migration notes:
 
+- [Zod vs Valibot vs ArkType for MCP tool schemas](https://fabwaseem.com/blog/zod-vs-valibot-vs-arktype)
 - [NestJS Rate Limiting: In-Memory vs Redis vs Postgres](https://fabwaseem.com/blog/nestjs-rate-limiting-redis-vs-postgres)
 - [NestJS vs Hono vs Fastify (2026), benchmarked on Node 26](https://fabwaseem.com/blog/nestjs-vs-hono-vs-fastify)
-- [Run TypeScript in Node.js without a build step (type stripping)](https://fabwaseem.com/blog/node-typescript-type-stripping)
 - [How to build an MCP server in NestJS](https://fabwaseem.com/blog/nestjs-mcp-server)
-- [pnpm vs npm security: install scripts and release age](https://fabwaseem.com/blog/pnpm-vs-npm-security)
+- [Vitest vs Jest vs node:test in 2026](https://fabwaseem.com/blog/vitest-vs-jest-vs-node-test)
 
 Full list on [fabwaseem.com/blog](https://fabwaseem.com/blog).
 
