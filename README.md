@@ -126,7 +126,7 @@ More at [fabwaseem.com/projects](https://fabwaseem.com/projects).
 
 - [Zod vs Valibot vs ArkType for MCP tool schemas](https://fabwaseem.com/blog/zod-vs-valibot-vs-arktype)
 - [NestJS Rate Limiting: In-Memory vs Redis vs Postgres](https://fabwaseem.com/blog/nestjs-rate-limiting-redis-vs-postgres)
-- [NestJS vs Hono vs Fastify (2026), benchmarked on Node 26](https://fabwaseem.com/blog/nestjs-vs-hono-vs-fastify)
+- [Hono vs Express vs Fastify (and NestJS), benchmarked on Node and Bun](https://fabwaseem.com/blog/hono-vs-express)
 - [How to build an MCP server in NestJS](https://fabwaseem.com/blog/nestjs-mcp-server)
 - [Vitest vs Jest vs node:test in 2026](https://fabwaseem.com/blog/vitest-vs-jest-vs-node-test)
 
