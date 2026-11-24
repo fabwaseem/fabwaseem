@@ -24,18 +24,50 @@ More at [fabwaseem.com](https://www.fabwaseem.com) · writing on the [blog](http
 
 TypeScript · React · Next.js · Node.js · NestJS · Python · PostgreSQL · MongoDB · Docker · AI automation · MCP · Web3
 
-## Featured open source
+## Open source
 
-| Project | Summary | Links |
-| --- | --- | --- |
-| [Benchline](https://github.com/fabwaseem/benchline) | Free developer tools (JSON, PDF, images, JWT, DNS, llms.txt) that also run as a stateless MCP server for AI agents. MIT. | [Live](https://benchline.fabwaseem.com) · [MCP](https://benchline.fabwaseem.com/mcp) · [Glama](https://glama.ai/mcp/servers/fabwaseem/benchline) |
-| [agent-rules](https://github.com/fabwaseem/agent-rules) | Cursor / Claude / AGENTS.md rule packs for shipping Next.js and NestJS work faster. Listed on [awesome-ai-plugins](https://github.com/hashgraph-online/awesome-ai-plugins) and the [HOL Registry](https://hol.org/registry/plugins). | [Repo](https://github.com/fabwaseem/agent-rules) |
-| [Snagbox](https://github.com/fabwaseem/snagbox) | Self-hostable NestJS API that turns a public URL into a file. On [awesome-nestjs](https://github.com/nestjs/awesome-nestjs). Docker image `ghcr.io/fabwaseem/snagbox`. | [Live](https://snagbox.fabwaseem.com) · [GHCR](https://github.com/fabwaseem/snagbox/pkgs/container/snagbox) |
-| [Forgekit](https://github.com/fabwaseem/forgekit) | Open-source Next.js AI starter with RAG and pgvector. | [Repo](https://github.com/fabwaseem/forgekit) |
-| [Lumina](https://github.com/fabwaseem/lumina) | Cross-platform Electron gallery for browsing CivitAI images and sending prompts into local ComfyUI. | [Releases](https://github.com/fabwaseem/lumina/releases/latest) |
-| [Civitai Gallery Explorer](https://github.com/fabwaseem/ComfyUI-Civitai-Gallery-Explorer) | ComfyUI node that browses the Civitai gallery and drops prompt, preview, and LoRA metadata into the graph. | [Registry](https://registry.comfy.org/nodes/civitai-gallery-explorer) |
-| [NovaCraft UI](https://github.com/fabwaseem/novacraft-ui) | Dark-first React component library and docs, themed with CSS variables. | [Live](https://novacraft-ui.vercel.app) |
-| [Foliora](https://github.com/fabwaseem/nextjs-portfolio-website) | Full-stack portfolio and blog with an admin dashboard and PostgreSQL via Prisma. | [Live](https://foliora.fabwaseem.com) |
+### AI agents and MCP
+
+**[Benchline](https://github.com/fabwaseem/benchline)** &nbsp;<sub>TypeScript · MIT</sub>  
+Free developer tools for JSON, PDF, images, JWT, DNS and llms.txt that also run as a stateless MCP server for AI agents.  
+<sub>[Website](https://benchline.fabwaseem.com) · [MCP endpoint](https://benchline.fabwaseem.com/mcp) · [Glama](https://glama.ai/mcp/servers/fabwaseem/benchline)</sub>
+
+**[agent-rules](https://github.com/fabwaseem/agent-rules)**  
+Rule packs for Cursor, Claude Code and AGENTS.md for shipping Next.js and NestJS work. Listed on [awesome-ai-plugins](https://github.com/hashgraph-online/awesome-ai-plugins) and the [HOL Registry](https://hol.org/registry/plugins).
+
+**[Forgekit](https://github.com/fabwaseem/forgekit)**  
+Next.js AI starter with streaming chat, tool calling and RAG on pgvector.
+
+### Desktop apps
+
+**[FireVoice](https://github.com/fabwaseem/firevoice)** &nbsp;<sub>Tauri · React · Python · MIT</sub>  
+Text-to-speech, voice cloning and dictation that run locally on your own GPU. Nothing is uploaded.  
+<sub>[Website](https://firevoice.fabwaseem.com) · [Releases](https://github.com/fabwaseem/firevoice/releases/latest)</sub>
+
+**[Lumina](https://github.com/fabwaseem/lumina)** &nbsp;<sub>Electron</sub>  
+Desktop gallery for CivitAI images that sends prompts straight into a local ComfyUI.  
+<sub>[Releases](https://github.com/fabwaseem/lumina/releases/latest)</sub>
+
+**[Civitai Gallery Explorer](https://github.com/fabwaseem/ComfyUI-Civitai-Gallery-Explorer)** &nbsp;<sub>ComfyUI node</sub>  
+Browse the Civitai gallery inside ComfyUI and drop prompt, preview and LoRA metadata into the graph.  
+<sub>[Comfy Registry](https://registry.comfy.org/nodes/civitai-gallery-explorer)</sub>
+
+### APIs and UI
+
+**[Snagbox](https://github.com/fabwaseem/snagbox)** &nbsp;<sub>NestJS · Docker</sub>  
+Self-hostable API that turns a public URL into a file. Listed on [awesome-nestjs](https://github.com/nestjs/awesome-nestjs).  
+<sub>[Website](https://snagbox.fabwaseem.com) · [Docker image](https://github.com/fabwaseem/snagbox/pkgs/container/snagbox)</sub>
+
+**[Kineticons](https://github.com/fabwaseem/kineticons)**  
+2,000+ animated icons for React, Vue, Svelte and HTML, in outline, duotone and filled styles.  
+<sub>[Website](https://kineticons.fabwaseem.com)</sub>
+
+**[Foliora](https://github.com/fabwaseem/nextjs-portfolio-website)** &nbsp;<sub>Next.js · Prisma</sub>  
+Portfolio and blog platform with an admin dashboard and PostgreSQL.  
+<sub>[Website](https://foliora.fabwaseem.com)</sub>
+
+**[NovaCraft UI](https://github.com/fabwaseem/novacraft-ui)**  
+Dark-first React component library themed with CSS variables.
 
 ## Recent writing
 
@@ -47,19 +79,16 @@ Long-form posts with real benchmarks and migration notes:
 - [How to build an MCP server in NestJS](https://fabwaseem.com/blog/nestjs-mcp-server)
 - [Vitest vs Jest vs node:test in 2026](https://fabwaseem.com/blog/vitest-vs-jest-vs-node-test)
 
-Full list on [fabwaseem.com/blog](https://fabwaseem.com/blog).
+All posts at [fabwaseem.com/blog](https://fabwaseem.com/blog).
 
-## Live products
+## Products
 
-Also on [fabwaseem.com/projects](https://www.fabwaseem.com/projects).
+**[Cladly](https://cladly.bio)** · Next.js app for managing content and user workflows.  
+**[Vidyoza](https://vidyoza.com)** · Video downloader for the major social platforms.  
+**[Snipshot](https://www.fabwaseem.com/projects/snipshot)** · Windows screenshot tool to capture, annotate and export.  
+**[Open Releases](https://github.com/fabwaseem/open-releases)** · Directory of open-source apps with the right installer for each platform.
 
-| Product | What it is | Live |
-| --- | --- | --- |
-| [Cladly](https://cladly.bio) | Next.js app for managing content and user workflows. | [cladly.bio](https://cladly.bio) |
-| [Vidyoza](https://vidyoza.com) | Social media video downloader for major platforms. | [vidyoza.com](https://vidyoza.com) |
-| [Sonora](https://sonora-olive.vercel.app) | Private, fully offline speech studio for Windows. | [Site](https://sonora-olive.vercel.app) |
-| [Snipshot](https://snipshot-alpha.vercel.app) | Windows screenshot tool for capture, annotate, and export. | [Site](https://snipshot-alpha.vercel.app) |
-| [Open Releases](https://open-releases.vercel.app) | Directory for open-source apps and matching installers. | [Site](https://open-releases.vercel.app) |
+More at [fabwaseem.com/projects](https://www.fabwaseem.com/projects).
 
 ## GitHub
 
