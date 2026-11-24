@@ -26,52 +26,103 @@ TypeScript · React · Next.js · Node.js · NestJS · Python · PostgreSQL · M
 
 ## Open source
 
-### AI agents and MCP
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/fabwaseem/firevoice"><img src="https://res.cloudinary.com/wasicloudinary/image/upload/f_auto,q_auto,c_limit,w_800/v1794477102/fabwaseem/projects/eauqa5mel6jf0xbcrvpa.jpg" alt="FireVoice" width="100%" /></a>
+<h3><a href="https://github.com/fabwaseem/firevoice">FireVoice</a></h3>
+<p>Text-to-speech, voice cloning and dictation that run locally on your own GPU. Nothing is uploaded.</p>
+<p><sub>Tauri · React · Python · MIT</sub><br /><sub><a href="https://firevoice.fabwaseem.com">Website</a> · <a href="https://github.com/fabwaseem/firevoice/releases/latest">Releases</a></sub></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/fabwaseem/benchline"><img src="https://res.cloudinary.com/wasicloudinary/image/upload/f_auto,q_auto,c_limit,w_800/v1794477090/fabwaseem/projects/eapag4yhfcnqk21kivkp.jpg" alt="Benchline" width="100%" /></a>
+<h3><a href="https://github.com/fabwaseem/benchline">Benchline</a></h3>
+<p>Free developer tools for JSON, PDF, images, JWT, DNS and llms.txt, also served as an MCP server for AI agents.</p>
+<p><sub>Next.js · TypeScript · MCP · MIT</sub><br /><sub><a href="https://benchline.fabwaseem.com">Website</a> · <a href="https://benchline.fabwaseem.com/mcp">MCP endpoint</a> · <a href="https://glama.ai/mcp/servers/fabwaseem/benchline">Glama</a></sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/fabwaseem/kineticons"><img src="https://res.cloudinary.com/wasicloudinary/image/upload/f_auto,q_auto,c_limit,w_800/v1794547408/fabwaseem/projects/youwdc8cnvfrhsfvymjs.jpg" alt="Kineticons" width="100%" /></a>
+<h3><a href="https://github.com/fabwaseem/kineticons">Kineticons</a></h3>
+<p>2,000+ animated icons for React, Vue, Svelte and HTML, in outline, duotone and filled styles.</p>
+<p><sub>React · Vue · Svelte</sub><br /><sub><a href="https://kineticons.fabwaseem.com">Website</a></sub></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/fabwaseem/agent-rules"><img src="https://res.cloudinary.com/wasicloudinary/image/upload/f_auto,q_auto,c_limit,w_800/v1794477063/fabwaseem/projects/ti5lkrnn4esivrpoaxxx.jpg" alt="agent-rules" width="100%" /></a>
+<h3><a href="https://github.com/fabwaseem/agent-rules">agent-rules</a></h3>
+<p>Rule packs for Cursor, Claude Code and AGENTS.md to ship Next.js and NestJS work faster.</p>
+<p><sub>AGENTS.md · Claude Code · Cursor</sub><br /><sub><a href="https://github.com/hashgraph-online/awesome-ai-plugins">awesome-ai-plugins</a> · <a href="https://hol.org/registry/plugins">HOL Registry</a></sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/fabwaseem/forgekit"><img src="https://res.cloudinary.com/wasicloudinary/image/upload/f_auto,q_auto,c_limit,w_800/v1794477109/fabwaseem/projects/r4qcyv29frone9jvbxwn.jpg" alt="Forgekit" width="100%" /></a>
+<h3><a href="https://github.com/fabwaseem/forgekit">Forgekit</a></h3>
+<p>Next.js AI starter with streaming chat, tool calling and RAG on pgvector.</p>
+<p><sub>Next.js · pgvector · Drizzle</sub><br /><sub><a href="https://github.com/fabwaseem/forgekit">Repository</a></sub></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/fabwaseem/lumina"><img src="https://res.cloudinary.com/wasicloudinary/image/upload/f_auto,q_auto,c_limit,w_800/v1794477114/fabwaseem/projects/egfouwljmuunnkb4n7ey.jpg" alt="Lumina" width="100%" /></a>
+<h3><a href="https://github.com/fabwaseem/lumina">Lumina</a></h3>
+<p>Desktop gallery for CivitAI images that sends prompts straight into a local ComfyUI.</p>
+<p><sub>Electron · React</sub><br /><sub><a href="https://github.com/fabwaseem/lumina/releases/latest">Releases</a></sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/fabwaseem/ComfyUI-Civitai-Gallery-Explorer"><img src="https://res.cloudinary.com/wasicloudinary/image/upload/f_auto,q_auto,c_limit,w_800/v1794477098/fabwaseem/projects/qxqdadjpsa86x4nzqpld.jpg" alt="Civitai Gallery Explorer" width="100%" /></a>
+<h3><a href="https://github.com/fabwaseem/ComfyUI-Civitai-Gallery-Explorer">Civitai Gallery Explorer</a></h3>
+<p>Browse the Civitai gallery inside ComfyUI and drop prompt, preview and LoRA metadata into the graph.</p>
+<p><sub>ComfyUI custom node · Python</sub><br /><sub><a href="https://registry.comfy.org/nodes/civitai-gallery-explorer">Comfy Registry</a></sub></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/fabwaseem/nextjs-portfolio-website"><img src="https://res.cloudinary.com/wasicloudinary/image/upload/f_auto,q_auto,c_limit,w_800/v1794477116/fabwaseem/projects/i4ae1xzuny2afx3yaidf.jpg" alt="Foliora" width="100%" /></a>
+<h3><a href="https://github.com/fabwaseem/nextjs-portfolio-website">Foliora</a></h3>
+<p>Portfolio and blog platform with an admin dashboard, 200+ themes and PostgreSQL via Prisma.</p>
+<p><sub>Next.js · Prisma · PostgreSQL</sub><br /><sub><a href="https://foliora.fabwaseem.com">Website</a></sub></p>
+</td>
+</tr>
+</table>
 
-**[Benchline](https://github.com/fabwaseem/benchline)** &nbsp;<sub>TypeScript · MIT</sub>  
-Free developer tools for JSON, PDF, images, JWT, DNS and llms.txt that also run as a stateless MCP server for AI agents.  
-<sub>[Website](https://benchline.fabwaseem.com) · [MCP endpoint](https://benchline.fabwaseem.com/mcp) · [Glama](https://glama.ai/mcp/servers/fabwaseem/benchline)</sub>
+Also: [Snagbox](https://github.com/fabwaseem/snagbox), a self-hostable NestJS API that turns a public URL into a file (on [awesome-nestjs](https://github.com/nestjs/awesome-nestjs)), and [NovaCraft UI](https://github.com/fabwaseem/novacraft-ui), a dark-first React component library.
 
-**[agent-rules](https://github.com/fabwaseem/agent-rules)**  
-Rule packs for Cursor, Claude Code and AGENTS.md for shipping Next.js and NestJS work. Listed on [awesome-ai-plugins](https://github.com/hashgraph-online/awesome-ai-plugins) and the [HOL Registry](https://hol.org/registry/plugins).
+## Products
 
-**[Forgekit](https://github.com/fabwaseem/forgekit)**  
-Next.js AI starter with streaming chat, tool calling and RAG on pgvector.
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://cladly.bio"><img src="https://res.cloudinary.com/wasicloudinary/image/upload/f_auto,q_auto,c_limit,w_800/v1794477100/fabwaseem/projects/p0ctt35c7hn27xkbhl86.jpg" alt="Cladly" width="100%" /></a>
+<h3><a href="https://cladly.bio">Cladly</a></h3>
+<p>Next.js app for managing content and user workflows.</p>
+<p><sub>SaaS</sub><br /><sub><a href="https://cladly.bio">cladly.bio</a></sub></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://vidyoza.com"><img src="https://res.cloudinary.com/wasicloudinary/image/upload/f_auto,q_auto,c_limit,w_800/v1794477131/fabwaseem/projects/ysjgd6jg7i66k0bkxiyt.jpg" alt="Vidyoza" width="100%" /></a>
+<h3><a href="https://vidyoza.com">Vidyoza</a></h3>
+<p>Video downloader for the major social platforms.</p>
+<p><sub>Web app</sub><br /><sub><a href="https://vidyoza.com">vidyoza.com</a></sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://fabwaseem.com/projects/snipshot"><img src="https://res.cloudinary.com/wasicloudinary/image/upload/f_auto,q_auto,c_limit,w_800/v1794477129/fabwaseem/projects/vdld2iywrhe3k4jmhccv.jpg" alt="Snipshot" width="100%" /></a>
+<h3><a href="https://fabwaseem.com/projects/snipshot">Snipshot</a></h3>
+<p>Windows screenshot tool to capture, annotate and export.</p>
+<p><sub>Windows · Tauri</sub><br /><sub><a href="https://fabwaseem.com/projects/snipshot">Project page</a></sub></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/fabwaseem/open-releases"><img src="https://res.cloudinary.com/wasicloudinary/image/upload/f_auto,q_auto,c_limit,w_800/v1794477123/fabwaseem/projects/gu5ptzu9hl0n8aazwffa.jpg" alt="Open Releases" width="100%" /></a>
+<h3><a href="https://github.com/fabwaseem/open-releases">Open Releases</a></h3>
+<p>Directory of open-source apps with the right installer for each platform.</p>
+<p><sub>Next.js</sub><br /><sub><a href="https://github.com/fabwaseem/open-releases">Repository</a></sub></p>
+</td>
+</tr>
+</table>
 
-### Desktop apps
-
-**[FireVoice](https://github.com/fabwaseem/firevoice)** &nbsp;<sub>Tauri · React · Python · MIT</sub>  
-Text-to-speech, voice cloning and dictation that run locally on your own GPU. Nothing is uploaded.  
-<sub>[Website](https://firevoice.fabwaseem.com) · [Releases](https://github.com/fabwaseem/firevoice/releases/latest)</sub>
-
-**[Lumina](https://github.com/fabwaseem/lumina)** &nbsp;<sub>Electron</sub>  
-Desktop gallery for CivitAI images that sends prompts straight into a local ComfyUI.  
-<sub>[Releases](https://github.com/fabwaseem/lumina/releases/latest)</sub>
-
-**[Civitai Gallery Explorer](https://github.com/fabwaseem/ComfyUI-Civitai-Gallery-Explorer)** &nbsp;<sub>ComfyUI node</sub>  
-Browse the Civitai gallery inside ComfyUI and drop prompt, preview and LoRA metadata into the graph.  
-<sub>[Comfy Registry](https://registry.comfy.org/nodes/civitai-gallery-explorer)</sub>
-
-### APIs and UI
-
-**[Snagbox](https://github.com/fabwaseem/snagbox)** &nbsp;<sub>NestJS · Docker</sub>  
-Self-hostable API that turns a public URL into a file. Listed on [awesome-nestjs](https://github.com/nestjs/awesome-nestjs).  
-<sub>[Website](https://snagbox.fabwaseem.com) · [Docker image](https://github.com/fabwaseem/snagbox/pkgs/container/snagbox)</sub>
-
-**[Kineticons](https://github.com/fabwaseem/kineticons)**  
-2,000+ animated icons for React, Vue, Svelte and HTML, in outline, duotone and filled styles.  
-<sub>[Website](https://kineticons.fabwaseem.com)</sub>
-
-**[Foliora](https://github.com/fabwaseem/nextjs-portfolio-website)** &nbsp;<sub>Next.js · Prisma</sub>  
-Portfolio and blog platform with an admin dashboard and PostgreSQL.  
-<sub>[Website](https://foliora.fabwaseem.com)</sub>
-
-**[NovaCraft UI](https://github.com/fabwaseem/novacraft-ui)**  
-Dark-first React component library themed with CSS variables.
+More at [fabwaseem.com/projects](https://fabwaseem.com/projects).
 
 ## Recent writing
-
-Long-form posts with real benchmarks and migration notes:
 
 - [Zod vs Valibot vs ArkType for MCP tool schemas](https://fabwaseem.com/blog/zod-vs-valibot-vs-arktype)
 - [NestJS Rate Limiting: In-Memory vs Redis vs Postgres](https://fabwaseem.com/blog/nestjs-rate-limiting-redis-vs-postgres)
@@ -80,15 +131,6 @@ Long-form posts with real benchmarks and migration notes:
 - [Vitest vs Jest vs node:test in 2026](https://fabwaseem.com/blog/vitest-vs-jest-vs-node-test)
 
 All posts at [fabwaseem.com/blog](https://fabwaseem.com/blog).
-
-## Products
-
-**[Cladly](https://cladly.bio)** · Next.js app for managing content and user workflows.  
-**[Vidyoza](https://vidyoza.com)** · Video downloader for the major social platforms.  
-**[Snipshot](https://www.fabwaseem.com/projects/snipshot)** · Windows screenshot tool to capture, annotate and export.  
-**[Open Releases](https://github.com/fabwaseem/open-releases)** · Directory of open-source apps with the right installer for each platform.
-
-More at [fabwaseem.com/projects](https://www.fabwaseem.com/projects).
 
 ## GitHub
 
